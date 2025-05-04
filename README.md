@@ -62,4 +62,4 @@ Main.java
 
 ✍️ Autor
 
-Desenvolvido por Vinicius — primeiro projeto modular em Java para portfólio de desenvolvedor.
+Desenvolvido por Vinicius Speria — primeiro projeto modular em Java para portfólio de desenvolvedor.
