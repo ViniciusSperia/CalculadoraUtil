@@ -7,14 +7,13 @@ public class Main {
         Scanner entrada = new Scanner(System.in); // Cria objeto Scanner para leitura do teclado
 
         do {
-            System.out.println(
-                    "Escolha uma opção:" + "\r\n" +
-                            "1 - Somar" + "\r\n" +
-                            "2 - Subtrair" + "\r\n" +
-                            "3 - Multiplicar" + "\r\n" +
-                            "4 - Dividir" + "\r\n" +
-                            "5 - Mostrar Tabuada" + "\r\n" +
-                            "0 - Sair");
+            System.out.println("Escolha uma opção:");
+            System.out.println("1 - Somar");
+            System.out.println("2 - Subtrair");
+            System.out.println("3 - Multiplicar");
+            System.out.println("4 - Dividir");
+            System.out.println("5 - Mostrar Tabuada");
+            System.out.println("0 - Sair");
 
             System.out.print("Digite sua opção: ");
             opcao = entrada.nextInt();
